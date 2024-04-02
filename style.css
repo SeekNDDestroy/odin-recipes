@@ -1,0 +1,12 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    color: cornflowerblue;
+    background-color:burlywood;
+}
+
+.links{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
